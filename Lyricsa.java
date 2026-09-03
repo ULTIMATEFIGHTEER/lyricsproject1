@@ -5,7 +5,7 @@
  * @ULTIMATEFIGHTEER (your name)
  * @24/8/2026 (a version number or a date)
  */
-public class Lyrics
+public class Lyricsa
 {
 
     /**
@@ -16,7 +16,7 @@ public class Lyrics
         lyrics();
     }
 
-    public static void lyrics() {
+    public static void lyricsa() {
         System.out.println("On a glorious quest");
         System.out.println("For glory");
         System.out.println("With his hands of stone");
